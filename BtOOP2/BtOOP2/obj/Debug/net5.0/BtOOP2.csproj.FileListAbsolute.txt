@@ -1,0 +1,15 @@
+D:\PRN212\BtOOP2\BtOOP2\bin\Debug\net5.0\BtOOP2.exe
+D:\PRN212\BtOOP2\BtOOP2\bin\Debug\net5.0\BtOOP2.deps.json
+D:\PRN212\BtOOP2\BtOOP2\bin\Debug\net5.0\BtOOP2.runtimeconfig.json
+D:\PRN212\BtOOP2\BtOOP2\bin\Debug\net5.0\BtOOP2.runtimeconfig.dev.json
+D:\PRN212\BtOOP2\BtOOP2\bin\Debug\net5.0\BtOOP2.dll
+D:\PRN212\BtOOP2\BtOOP2\bin\Debug\net5.0\BtOOP2.pdb
+D:\PRN212\BtOOP2\BtOOP2\obj\Debug\net5.0\BtOOP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\BtOOP2\BtOOP2\obj\Debug\net5.0\BtOOP2.AssemblyInfoInputs.cache
+D:\PRN212\BtOOP2\BtOOP2\obj\Debug\net5.0\BtOOP2.AssemblyInfo.cs
+D:\PRN212\BtOOP2\BtOOP2\obj\Debug\net5.0\BtOOP2.csproj.CoreCompileInputs.cache
+D:\PRN212\BtOOP2\BtOOP2\obj\Debug\net5.0\BtOOP2.dll
+D:\PRN212\BtOOP2\BtOOP2\obj\Debug\net5.0\refint\BtOOP2.dll
+D:\PRN212\BtOOP2\BtOOP2\obj\Debug\net5.0\BtOOP2.pdb
+D:\PRN212\BtOOP2\BtOOP2\obj\Debug\net5.0\BtOOP2.genruntimeconfig.cache
+D:\PRN212\BtOOP2\BtOOP2\obj\Debug\net5.0\ref\BtOOP2.dll
