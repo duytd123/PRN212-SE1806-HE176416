@@ -1,0 +1,7 @@
+C:\Users\badao\source\repos\AutomobileLibary\AutomobileLibary\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarDetails.resources
+C:\Users\badao\source\repos\AutomobileLibary\AutomobileLibary\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarManagement.resources
+C:\Users\badao\source\repos\AutomobileLibary\AutomobileLibary\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+C:\Users\badao\source\repos\AutomobileLibary\AutomobileLibary\obj\Debug\net5.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badao\source\repos\AutomobileLibary\AutomobileLibary\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+C:\Users\badao\source\repos\AutomobileLibary\AutomobileLibary\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfo.cs
+C:\Users\badao\source\repos\AutomobileLibary\AutomobileLibary\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache

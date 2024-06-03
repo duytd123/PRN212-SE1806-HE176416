@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileWinApp.csproj|c:\\users\\badao\\source\\repos\\automobilelibary\\automobilelibary\\frmcarmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileWinApp.csproj|solutionrelative:automobilelibary\\frmcarmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileWinApp.csproj|c:\\users\\badao\\source\\repos\\automobilelibary\\automobilelibary\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileWinApp.csproj|solutionrelative:automobilelibary\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileWinApp.csproj|c:\\users\\badao\\source\\repos\\automobilelibary\\automobilelibary\\automobilewinapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileWinApp.csproj|solutionrelative:automobilelibary\\automobilewinapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileWinApp.csproj|c:\\users\\badao\\source\\repos\\automobilelibary\\automobilelibary\\frmcardetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileWinApp.csproj|solutionrelative:automobilelibary\\frmcardetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileWinApp.csproj|c:\\users\\badao\\source\\repos\\automobilelibary\\automobilelibary\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileWinApp.csproj|solutionrelative:automobilelibary\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileLibary.csproj|C:\\Users\\badao\\source\\repos\\AutomobileLibary\\automobilelibary\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileLibary.csproj|solutionrelative:automobilelibary\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileWinApp.csproj|c:\\users\\badao\\source\\repos\\automobilelibary\\automobilelibary\\frmcardetails.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileWinApp.csproj|solutionrelative:automobilelibary\\frmcardetails.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileLibary.csproj|C:\\Users\\badao\\source\\repos\\AutomobileLibary\\automobilelibary\\frmcardetails.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileLibary.csproj|solutionrelative:automobilelibary\\frmcardetails.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileWinApp.csproj|c:\\users\\badao\\source\\repos\\automobilelibary\\automobilelibary\\frmcarmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileWinApp.csproj|solutionrelative:automobilelibary\\frmcarmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileLibary.csproj|C:\\Users\\badao\\source\\repos\\AutomobileLibary\\automobilelibary\\frmcarmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF9ACAEE-7FA5-4536-8F46-8FE93B9A56A3}|AutomobileLibary\\AutomobileLibary.csproj|solutionrelative:automobilelibary\\frmcarmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCarManagement.cs",
+              "DocumentMoniker": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarManagement.cs",
+              "RelativeDocumentMoniker": "AutomobileLibary\\frmCarManagement.cs",
+              "ToolTip": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarManagement.cs",
+              "RelativeToolTip": "AutomobileLibary\\frmCarManagement.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAswLIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:19:35.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutomobileWinApp.csproj",
+              "DocumentMoniker": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\AutomobileWinApp.csproj",
+              "RelativeDocumentMoniker": "AutomobileLibary\\AutomobileWinApp.csproj",
+              "ToolTip": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\AutomobileWinApp.csproj",
+              "RelativeToolTip": "AutomobileLibary\\AutomobileWinApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T15:06:15.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCarDetails.cs",
+              "DocumentMoniker": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarDetails.cs",
+              "RelativeDocumentMoniker": "AutomobileLibary\\frmCarDetails.cs",
+              "ToolTip": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarDetails.cs",
+              "RelativeToolTip": "AutomobileLibary\\frmCarDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:12:04.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCarDetails.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarDetails.Designer.cs",
+              "RelativeDocumentMoniker": "AutomobileLibary\\frmCarDetails.Designer.cs",
+              "ToolTip": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarDetails.Designer.cs",
+              "RelativeToolTip": "AutomobileLibary\\frmCarDetails.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:27:08.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCarDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarDetails.cs",
+              "RelativeDocumentMoniker": "AutomobileLibary\\frmCarDetails.cs",
+              "ToolTip": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarDetails.cs [Design]",
+              "RelativeToolTip": "AutomobileLibary\\frmCarDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:13:17.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmCarDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarDetails.cs",
+              "RelativeDocumentMoniker": "AutomobileLibary\\frmCarDetails.cs",
+              "ToolTip": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarDetails.cs [Design]",
+              "RelativeToolTip": "AutomobileLibary\\frmCarDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:33:57.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCarDetails.resx",
+              "DocumentMoniker": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarDetails.resx",
+              "RelativeDocumentMoniker": "AutomobileLibary\\frmCarDetails.resx",
+              "ToolTip": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarDetails.resx",
+              "RelativeToolTip": "AutomobileLibary\\frmCarDetails.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-03T16:18:03.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCarManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarManagement.Designer.cs",
+              "RelativeDocumentMoniker": "AutomobileLibary\\frmCarManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarManagement.Designer.cs",
+              "RelativeToolTip": "AutomobileLibary\\frmCarManagement.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:16:16.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCarDetails.resx",
+              "DocumentMoniker": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarDetails.resx",
+              "RelativeDocumentMoniker": "AutomobileLibary\\frmCarDetails.resx",
+              "ToolTip": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarDetails.resx",
+              "RelativeToolTip": "AutomobileLibary\\frmCarDetails.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-03T15:33:30.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmCarManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarManagement.cs",
+              "RelativeDocumentMoniker": "AutomobileLibary\\frmCarManagement.cs",
+              "ToolTip": "C:\\Users\\badao\\source\\repos\\AutomobileLibary\\AutomobileLibary\\frmCarManagement.cs [Design]",
+              "RelativeToolTip": "AutomobileLibary\\frmCarManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:57:53.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
