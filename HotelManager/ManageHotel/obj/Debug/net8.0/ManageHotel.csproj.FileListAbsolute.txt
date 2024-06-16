@@ -1,0 +1,12 @@
+E:\Projects\HotelManager\ManageHotel\bin\Debug\net8.0\ManageHotel.deps.json
+E:\Projects\HotelManager\ManageHotel\bin\Debug\net8.0\ManageHotel.dll
+E:\Projects\HotelManager\ManageHotel\bin\Debug\net8.0\ManageHotel.pdb
+E:\Projects\HotelManager\ManageHotel\obj\Debug\net8.0\ManageHotel.csproj.AssemblyReference.cache
+E:\Projects\HotelManager\ManageHotel\obj\Debug\net8.0\ManageHotel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\HotelManager\ManageHotel\obj\Debug\net8.0\ManageHotel.AssemblyInfoInputs.cache
+E:\Projects\HotelManager\ManageHotel\obj\Debug\net8.0\ManageHotel.AssemblyInfo.cs
+E:\Projects\HotelManager\ManageHotel\obj\Debug\net8.0\ManageHotel.csproj.CoreCompileInputs.cache
+E:\Projects\HotelManager\ManageHotel\obj\Debug\net8.0\ManageHotel.dll
+E:\Projects\HotelManager\ManageHotel\obj\Debug\net8.0\refint\ManageHotel.dll
+E:\Projects\HotelManager\ManageHotel\obj\Debug\net8.0\ManageHotel.pdb
+E:\Projects\HotelManager\ManageHotel\obj\Debug\net8.0\ref\ManageHotel.dll
